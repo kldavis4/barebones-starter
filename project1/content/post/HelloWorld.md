@@ -1,5 +1,5 @@
 ---
-title: This is a title
+title: project1 - This is a title
 ---
 
 This is a test
